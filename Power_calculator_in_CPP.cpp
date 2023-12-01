@@ -21,4 +21,6 @@ int main() {
 	cin >> power_number;
 
 	cout << "Resultado: " << potencia(number, power_number);
+
+	return 0;
 }
